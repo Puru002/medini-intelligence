@@ -1,0 +1,36 @@
+# Product Requirements Document (PRD)
+## Product Name
+Medini Intelligence
+
+## Overview
+Medini Intelligence is an AI-powered web application that generates structured knowledge and technical content using a Large Language Model (LLM).
+
+## Problem Statement
+Users require a controllable, structured AI assistant for technical documentation and knowledge generation instead of generic chatbot outputs.
+
+## Target Users
+- AI learners
+- Technical writers
+- Product managers
+- Developers
+- Content creators
+
+## Core Features
+- Chat-based AI interface
+- Adjustable system instructions
+- Parameter controls (temperature, top_p, max_tokens)
+- Streaming responses
+- OAuth-based authentication
+- Web deployment
+
+## Success Metrics
+- Initial token latency < 3 seconds
+- Structured output consistency
+- User engagement rate
+- Token efficiency
+
+## Roadmap
+- Persistent memory
+- Tool calling integration
+- Agentic workflows
+- API version release
