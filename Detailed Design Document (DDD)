@@ -1,0 +1,17 @@
+# Detailed Design Document (DDD)
+
+## Core Function: respond()
+
+### Responsibilities
+- Accept user message
+- Merge system prompt
+- Append chat history
+- Call LLM API
+- Stream response tokens
+
+## Message Structure
+```json
+[
+  {"role": "system", "content": "..."},
+  {"role": "user", "content": "..."}
+]
