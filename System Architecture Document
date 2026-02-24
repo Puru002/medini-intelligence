@@ -1,0 +1,25 @@
+# System Architecture Document
+
+## High-Level Flow
+User → Gradio UI → Prompt Orchestration → LLM API → Streaming Output → UI
+
+## Layers
+
+### 1. Presentation Layer
+- Gradio ChatInterface
+- Parameter sliders
+- OAuth login
+
+### 2. Application Layer
+- `respond()` function
+- Message formatting
+- Context management
+- Parameter injection
+
+### 3. Model Layer
+- LLM accessed via Inference API
+- Streaming token generation
+
+### 4. Deployment Layer
+- Cloud-hosted web application
+- Secure token-based authentication
