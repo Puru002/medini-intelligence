@@ -1,0 +1,10 @@
+# Data Privacy Document
+
+## Data Handling
+- No persistent storage
+- Session-based interaction
+- No external database
+
+## Transparency
+- Model generates responses dynamically
+- No user data used for training
