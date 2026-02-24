@@ -1,0 +1,21 @@
+# Prompt Engineering Guide
+
+## System Prompt Strategy
+Defines:
+- Tone
+- Role
+- Output structure
+
+Example:
+"You are a structured AI technical documentation assistant."
+
+## Context Handling
+- Maintains conversation history
+- Uses role-based message formatting
+
+## Parameter Recommendations
+
+| Use Case | Temperature | Top_p |
+|----------|------------|-------|
+| Technical Writing | 0.3–0.7 | 0.8–0.95 |
+| Creative Content | 0.8–1.2 | 0.9–1.0 |
