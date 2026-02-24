@@ -1,0 +1,17 @@
+# Model Evaluation Strategy
+
+## Evaluation Metrics
+- Coherence
+- Factual consistency
+- Structural quality
+- Token efficiency
+
+## Testing Types
+- Edge-case prompts
+- Long-context tests
+- Parameter stress tests
+
+## Hallucination Mitigation
+- Clear structured prompts
+- Lower temperature settings
+- Role-based instructions
