@@ -1,0 +1,13 @@
+# Deployment Guide
+
+## Steps
+1. Create Space
+2. Upload app.py
+3. Configure dependencies
+4. Add OAuth
+5. Deploy
+
+## Environment Requirements
+- Python
+- gradio
+- huggingface_hub
