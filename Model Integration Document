@@ -1,0 +1,24 @@
+
+---
+
+# 📁 `/docs/Model_Integration.md`
+
+```markdown
+# Model Integration Document
+
+## Model Type
+Generative NLP Transformer Model
+
+## API Method
+chat_completion()
+
+## Parameters
+- max_tokens
+- temperature
+- top_p
+- stream=True
+
+## Limitations
+- Context window constraints
+- Possible hallucinations
+- Rate limits
