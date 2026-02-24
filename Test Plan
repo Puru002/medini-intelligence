@@ -1,0 +1,14 @@
+# Test Plan
+
+## Functional Testing
+- Message submission
+- Parameter control
+- Login flow validation
+
+## Boundary Testing
+- Max token limits
+- Temperature extremes
+
+## Error Handling
+- API failures
+- Token expiration
