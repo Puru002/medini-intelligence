@@ -1,0 +1,10 @@
+# Performance Testing Document
+
+## Metrics
+- First token latency
+- Full response generation time
+- API timeout rate
+
+## Monitoring
+- Streaming stability
+- Server responsiveness
