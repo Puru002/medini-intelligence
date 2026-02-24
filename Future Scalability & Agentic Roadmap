@@ -1,0 +1,10 @@
+# Future Scalability & Agentic Roadmap
+
+## Planned Enhancements
+- Tool calling integration
+- Multi-agent orchestration
+- Persistent memory storage
+- Workflow automation
+
+## Architecture Evolution
+Single LLM → Agent Controller → Tool Execution Layer → Memory Store
