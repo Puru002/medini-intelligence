@@ -1,0 +1,14 @@
+# Security Documentation
+
+## Authentication
+- OAuth-based login
+- Secure token handling
+
+## Security Measures
+- No hardcoded API keys
+- Scoped tokens
+- Secret management
+
+## Risks
+- Token misuse
+- Public deployment exposure
